@@ -16,7 +16,7 @@ public class main {
         daftarharga l = new daftarharga();
         Data d = new Data();
         System.out.println("---------------------------------------------------------------------------------");
-        System.out.println("|                                  SEWA KOST                                    |");
+        System.out.println("|                                    SEWA KOST                                  |");
         System.out.println("---------------------------------------------------------------------------------");
         
         l.daftar();
