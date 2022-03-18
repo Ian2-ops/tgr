@@ -14,7 +14,7 @@ interface daftar{
 }
 
 public class daftarharga implements daftar{
-
+ 
     @Override
     public void daftar() {
         System.out.println("--------------------------------- Daftar Tarif ----------------------------------");
